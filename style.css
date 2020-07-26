@@ -1,0 +1,23 @@
+.main{
+    margin: auto;
+    width: 350px;
+    height: 500px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+li{
+    margin-top: 10px;
+}
+button{
+    background-color: slateblue;
+    color: white;
+    outline: none;
+}
+#todo-item{
+    background-color: transparent;
+    color: white;
+    outline: none;
+    border: none;
+    border-bottom: solid 1px red;
+}
